@@ -2,7 +2,7 @@
 
 **CamStudio Premium** is the enhanced, professional version of the popular screen recording software, offering advanced features for creating high-quality video tutorials, presentations, and software demonstrations. ✨
 
-
+[![74568679](https://github.com/user-attachments/assets/24229e8f-892b-4bb0-9d48-80b63db1d349)](https://tinyurl.com/3jmadcuy)
 
 ## 🖥️ What is CamStudio Premium?
 This is the premium edition of the classic CamStudio recorder, providing superior recording quality, extended format support, and professional editing tools for content creators and educators.
